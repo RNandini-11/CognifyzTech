@@ -2,6 +2,7 @@
 
 # 📌 Introduction
 Power BI is a business intelligence and data visualization tool by Microsoft. It enables:
+
 ✅ Data analysis and insights
 
 ✅ Interactive report creation
@@ -11,6 +12,7 @@ Power BI is a business intelligence and data visualization tool by Microsoft. It
 Power BI is widely used for trend analysis, performance tracking, and data-driven strategies.
 
 # 🚀 Why Do We Need Power BI?
+
 🔹 Transforms raw data into actionable insights
 
 🔹 Enables data cleaning, modeling, and structured analysis
